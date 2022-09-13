@@ -59,6 +59,6 @@ apt update ; apt install git -y ; git clone git://github.com/htr-tech/nexphisher
 ## Find Me on :
 [![Github](https://img.shields.io/badge/Github-HTR--TECH-green?style=for-the-badge&logo=github)](https://github.com/mrjuice01)
 [![Instagram](https://img.shields.io/badge/IG-%40tahmid.rayat-red?style=for-the-badge&logo=instagram)](https://www.instagram.com/mr_juice)
-[!Telegram] https://img.shields.io/badge/Chat-Messenger-blue?style=for-the-badge&logo=messenger](http://t.me/DeveloperJuice)
+[![Telegram] (https://github.com/mrjuice01.png?size=100)](http://t.me/DeveloperJuice)
 
 
